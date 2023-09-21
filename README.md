@@ -8,7 +8,6 @@ I have demonstrated my ability with the following tools and software:
 - Tableau,
 - Python,
 - Jupyter Notebook,
-- MySQL Connector/Python API.
 
 In this project, I have proven my ability to:
 - Set up a database project,
